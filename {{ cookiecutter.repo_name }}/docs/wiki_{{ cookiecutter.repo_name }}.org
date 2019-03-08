@@ -1,7 +1,7 @@
-#+TITLE:     Wiki {{ cookiecutter.repo_name }}
+#+TITLE:     Wiki {{ cookiecutter.project_name }}
 #+AUTHOR:    Krishna Bhogaonker
 #+EMAIL:     cyclotomiq@gmail.com
-#+DATE:      `(format-time-string "%Y-%m-%d")`
+#+DATE:      {{ cookiecutter.project_date }}
 #+DESCRIPTION: {{ cookiecutter.description }}
 #+KEYWORDS: {{ cookiecutter.keywords }}
 #+LANGUAGE:  en

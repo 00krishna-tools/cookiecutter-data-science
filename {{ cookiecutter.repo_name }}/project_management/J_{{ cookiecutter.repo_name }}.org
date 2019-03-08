@@ -1,7 +1,7 @@
-#+TITLE:     Journal {{ cookiecutter.repo_name }}
+#+TITLE:     Journal {{ cookiecutter.project_name }}
 #+AUTHOR:    Krishna Bhogaonker
 #+EMAIL:     cyclotomiq@gmail.com
-#+DATE:      
+#+DATE:      {{ cookiecutter.project_date }}
 #+DESCRIPTION: {{ cookiecutter.description }}
 #+KEYWORDS: {{ cookiecutter.keywords }}
 #+LANGUAGE:  en
