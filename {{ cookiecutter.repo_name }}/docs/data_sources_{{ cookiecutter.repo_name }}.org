@@ -1,0 +1,22 @@
+#+TITLE:     Data Sources {{ cookiecutter.repo_name }}
+#+AUTHOR:    Krishna Bhogaonker
+#+EMAIL:     cyclotomiq@gmail.com
+#+DATE:      `(format-time-string "%Y-%m-%d")`
+#+DESCRIPTION: {{ cookiecutter.description }}
+#+KEYWORDS: {{ cookiecutter.keywords }}
+#+LANGUAGE:  en
+#+STARTUP: showeverything
+#+LATEX_CMD: xelatex
+#+LATEX_HEADER: \usepackage{minted}
+#+FILETAGS: Data
+
+
+* Table of Contents                                                     :TOC:
+:PROPERTIES:
+:CATEGORY: TOC
+:END:
+
+
+* Source of Original Project Data
+
+
