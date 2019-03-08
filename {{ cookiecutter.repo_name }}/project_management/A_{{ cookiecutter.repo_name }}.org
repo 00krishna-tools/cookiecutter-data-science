@@ -1,0 +1,76 @@
+#+TITLE:  Agenda {{ cookiecutter.repo_name }}
+#+AUTHOR:    Krishna Bhogaonker
+#+EMAIL:     cyclotomiq@gmail.com
+#+DATE:      `(format-time-string "%Y-%m-%d")`
+#+DESCRIPTION: 
+#+KEYWORDS: {{ cookiecutter.keywords }}
+#+LANGUAGE:  en
+#+STARTUP: overall
+#+LATEX_CMD: xelatex
+#+LATEX_HEADER: \usepackage{minted}
+#+FILETAGS: RProject 
+
+* Project
+  :PROPERTIES:
+  :CATEGORY: Proj 
+  :END:
+
+
+** Project Description and Scope
+  :PROPERTIES:
+  :CATEGORY: Desc
+  :END:
+
+{{ cookiecutter.description }}
+
+** Paper  :WRITING:
+  :PROPERTIES:
+  :CATEGORY: Paper
+  :END:
+
+
+
+
+** Review
+  :PROPERTIES:
+  :CATEGORY: Review
+  :END:
+
+
+
+
+** Model
+  :PROPERTIES:
+  :CATEGORY: Model
+  :END:
+
+
+
+** Data
+  :PROPERTIES:
+  :CATEGORY: Data
+  :END:
+
+
+
+
+
+** Read                       :READ:
+  :PROPERTIES:
+  :CATEGORY: Read
+  :END:
+
+
+
+
+
+** Notes
+  :PROPERTIES:
+  :CATEGORY: Notes
+  :END:
+
+
+** Meetings
+  :PROPERTIES:
+  :CATEGORY: Meetings
+  :END:
