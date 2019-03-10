@@ -1,0 +1,25 @@
+#+TITLE:     Journal {{ cookiecutter.project_name }}
+#+AUTHOR:    Krishna Bhogaonker
+#+EMAIL:     cyclotomiq@gmail.com
+#+DATE:      {{ cookiecutter.project_date }}
+#+DESCRIPTION: {{ cookiecutter.description }}
+#+KEYWORDS: {{ cookiecutter.keywords }}
+#+LANGUAGE:  en
+#+STARTUP: showeverything
+#+LATEX_CMD: xelatex
+#+LATEX_HEADER: \usepackage{minted}
+#+FILETAGS: Wiki Journal
+
+
+* Table of Contents                                                     :TOC:
+:PROPERTIES:
+:CATEGORY: TOC
+:END:
+
+
+
+
+
+
+
+
